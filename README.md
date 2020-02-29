@@ -1,7 +1,7 @@
 # sokr.ru parser
 
-* [Install](./#Install)
-* [Usage](./#Usage)
+* [Install](#Install)
+* [Usage](#Usage)
 
 ## Install
 
