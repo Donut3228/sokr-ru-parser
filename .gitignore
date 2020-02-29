@@ -1,2 +1,5 @@
 venv
 .vscode
+data
+res.txt
+__pycache__

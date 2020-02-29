@@ -35,5 +35,8 @@ def main():
     with open('res.txt', 'w') as f:
         f.write('\n'.join(sorted(set(fin_res))))
 
+def parse():
+    main()
+
 if __name__ == "__main__":
     main()
